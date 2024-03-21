@@ -1,0 +1,12 @@
+name: choice-criteria
+title: choice-criteria
+username: mintdata
+account: mintdata
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11551064
+bundleId: 8399101
+url: https://mintdata.shinyapps.io/choice-criteria/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
