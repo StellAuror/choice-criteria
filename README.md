@@ -1,5 +1,6 @@
 # choice-criteria
 Reupload 2022
+
 This repository contains the comparative methods [application](https://mintdata.shinyapps.io/choice-criteria/).
 
 ## Methods
